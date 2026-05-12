@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000'; // Explicit backend URL so it works with Live Server
+const API_BASE_URL = 'https://personal-portfolio-rav5.onrender.com'; // Live Render Backend API URL
 
 document.addEventListener('DOMContentLoaded', () => {
     

@@ -27,21 +27,21 @@ const fallbackProjects = [
   {
     title: 'AI Dashboard',
     description: 'A premium dark-mode analytics dashboard built with React and Chart.js to visualize real-time AI model performance metrics and anomaly scores.',
-    link: 'https://github.com/yourusername/ai-dashboard',
+    link: 'https://github.com/knsabarish08/personal-portfolio',
     image: 'images/ai_dashboard.png',
     createdAt: new Date()
   },
   {
     title: 'E-commerce Platform',
     description: 'Stunning full-stack digital storefront web application featuring secure payment gateways, dynamic cart management, and fluid responsive layouts.',
-    link: 'https://github.com/yourusername/ecommerce-platform',
+    link: 'https://github.com/knsabarish08/personal-portfolio',
     image: 'images/ecommerce.png',
     createdAt: new Date()
   },
   {
     title: 'Weather App',
     description: 'A vibrant, modern weather tracking web app leveraging external live APIs to deliver accurate atmospheric forecasts inside sleek glassmorphic components.',
-    link: 'https://github.com/yourusername/weather-app',
+    link: 'https://github.com/knsabarish08/personal-portfolio',
     image: 'images/weather.png',
     createdAt: new Date()
   }
